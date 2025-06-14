@@ -51,10 +51,11 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(/imges/_.jpeg) no-repeat;
+/*     background: url(/imges/_.jpeg) no-repeat; */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    background-color: black;
 }
 
 .main h2 {
